@@ -1,4 +1,4 @@
-![image](../banner.png)
+![image](https://github.com/Videolab-Creators-Group/.github/blob/main/banner.png?raw=true)
 
 ## Hello Everyone 👋
 
